@@ -7,7 +7,7 @@
   
 ## 🖼 Screenshot do Sistema <br/>
   
-<img src = "https://user-images.githubusercontent.com/79457377/131863539-ba1abe3c-5253-4897-8c3b-e599e87e07f6.PNG" </img>
+![BuscarCEP](https://user-images.githubusercontent.com/79457377/131864899-97874fab-8f94-4a77-b8a8-ef6257a03005.PNG)
 
 ## Tecnologia utilizada <br/>
   * Java ☕
