@@ -6,7 +6,7 @@
 <br/>
   
 ## 🖼 Screenshot do Sistema <br/>
-<div align = "Center">
+<div align="center">
 ![BuscarCEP](https://user-images.githubusercontent.com/79457377/131863539-ba1abe3c-5253-4897-8c3b-e599e87e07f6.PNG)
   <div/>
 
