@@ -9,5 +9,11 @@
   
 ![BuscarCEP](https://user-images.githubusercontent.com/79457377/131864899-97874fab-8f94-4a77-b8a8-ef6257a03005.PNG)
 
-## Tecnologia utilizada <br/>
+## 🚀 Tecnologia utilizada <br/>
   * Java ☕
+  <br/>
+  
+## 📚 Bibliotecas utilizada
+  * Atxy2k <br/>
+  * dom4j-2.1.3 <br/>
+  <br/>
