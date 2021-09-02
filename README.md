@@ -49,6 +49,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
   
 ## :mortar_board: Autor
 <h2 align="center">
-  Feito by  <a href="https://www.linkedin.com/in/victor-hugo-9b4723200/" target="_blank"> Victor Hugo </a>
+  Author by  <a href="https://www.linkedin.com/in/victor-hugo-9b4723200/" target="_blank"> Victor Hugo </a>
   </h2>
 
