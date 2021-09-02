@@ -2,7 +2,7 @@
 
 ## 🔖 Informações sobre o Consultor de CEP
 
-<t1> O <Strong> Consultor de CEP <Strong/> é um sistema utilizado para facilitar a consulta de CEP diretamente da sua máquina, sem precisar abrir um navegador ! <t1/>
+<h1> O <Strong> Consultor de CEP <Strong/> é um sistema utilizado para facilitar a consulta de CEP diretamente da sua máquina, sem precisar abrir um navegador ! </h1>
 <br/>
   
 ## 🖼 Screenshot do Sistema <br/>
@@ -48,5 +48,7 @@ git clone https://github.com/huguds/Search_CEP
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <br/>
   
 ## :mortar_board: Autor
+<h2 align="center">
   Feito by  <a href="https://www.linkedin.com/in/victor-hugo-9b4723200/" target="_blank"> Victor Hugo </a>
+  </h2>
 
